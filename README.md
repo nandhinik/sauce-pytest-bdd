@@ -1,6 +1,6 @@
 # sauce-pytest-bdd
 
-# Selenium, Pytest, Pytest-bdd Automation Tests
+# Automation Tests using Selenium, Pytest, Pytest-bdd
 
 Sample code to perform UI testing for www.saucedemo.com
 
@@ -22,5 +22,7 @@ Run tests simply using the `pytest` command.
 
 Examples:
 `pytest tests/step_defs/test_login_steps.py`
+
 `pytest tests/step_defs/test_checkout_steps.py`
+
 `pytest tests/step_defs/test_login_steps.py --html=./log/report.html`
