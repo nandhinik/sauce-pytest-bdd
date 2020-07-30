@@ -22,6 +22,8 @@ Run tests simply using the `pytest` command.
 
 Other Examples:
 
+`pytest --html=./log/report.html` - To run all tests with html report
+
 `pytest tests/step_defs/test_login_steps.py`
 
 `pytest tests/step_defs/test_checkout_steps.py`
