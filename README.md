@@ -12,8 +12,8 @@ To set up this project on your local machine:
 
 1. Create a virtual env using python-3.6 --> `virtualenv -p python3 sauce_pytest`
 2. Activate the virtual env --> `source {path/to/sauce_pytest}/bin/activate`
-3. Clone it from this GitHub repository.
-4. Install all the dependencies --> `pip install -r requirements.txt`
+3. Clone it from this GitHub repository. --> `git clone https://github.com/nandhinik/sauce-pytest-bdd.git`
+4. Install all the dependencies from root(sauce-pytest-bdd) directory --> `pip install -r requirements.txt`
 5. For Web UI tests, install the appropriate browser and WebDriver executable.
    * These tests use Chrome and chromedriver
 
