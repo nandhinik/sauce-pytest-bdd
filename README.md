@@ -20,7 +20,8 @@ To set up this project on your local machine:
 ## Running Tests
 Run tests simply using the `pytest` command.
 
-Examples:
+Other Examples:
+
 `pytest tests/step_defs/test_login_steps.py`
 
 `pytest tests/step_defs/test_checkout_steps.py`
